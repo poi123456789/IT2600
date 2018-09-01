@@ -30,3 +30,9 @@
    * poi
    * poi  
 3. Item1. Item 2. 
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $160 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
