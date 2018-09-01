@@ -36,3 +36,5 @@
 | poi 1 is |     left      | $160 |
 | poi 2 is |    centered   |   $12 |
 | poi 3 is |     right     |    $1 |
+
+**bold** text
