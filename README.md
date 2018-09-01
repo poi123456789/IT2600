@@ -6,4 +6,4 @@
 
 [Google](https://www.google.com/)
 
-[image]!(https://github.com/poi123456789/IT2600/blob/master/image.jpg)
+![image](https://github.com/poi123456789/IT2600/blob/master/image.jpg)
