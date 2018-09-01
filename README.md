@@ -33,6 +33,6 @@
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $160 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| poi 1 is |     left      | $160 |
+| poi 2 is |    centered   |   $12 |
+| poi 3 is |     right     |    $1 |
