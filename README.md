@@ -40,3 +40,5 @@
 **bold** text
 
 *ltallcs* text
+
+~~Scratch this.~~
