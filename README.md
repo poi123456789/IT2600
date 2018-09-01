@@ -38,3 +38,4 @@
 | poi 3 is |     right     |    $1 |
 
 **bold** text
+ *italicize* text
