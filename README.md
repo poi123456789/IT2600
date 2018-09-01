@@ -12,5 +12,5 @@
 
     void main()
     {
-    printf("Hello, Markdown. `I am using c`");
+    printf("Hello, world");
     }
